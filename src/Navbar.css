@@ -1,0 +1,19 @@
+.Navbarstyle{
+    list-style-type:none;
+background-color:green;
+border-right: 1px;
+margin: 0px;
+padding:0px;
+overflow: hidden;/*this is used to avoid overflow and put it at the right place}*/
+border:1px solid black;
+}
+
+.Navbarelements{
+  display: inline;
+  float: left;
+  padding: 14px 16px;
+  color:white;
+  border-right:1px solid black; 
+  text-align:center;
+  text-decoration: none;
+}

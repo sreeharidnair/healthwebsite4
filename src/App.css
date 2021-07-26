@@ -1,38 +1,128 @@
-.App {
-  text-align: center;
+.logo{
+  margin:0px;
+
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.heado{
+  color:green;
+  margin-left:300px;
+}
+.imgsizer{
+  margin-left: 400px;
+  height:350px;
+}
+.registeration{
+  height:400px;
+  width:200px;
+  border: 1px solid black; 
+  margin-left:450px;
+  background-color:green;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.imagelogo{
+  padding:2px;
+  height: 100px;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+.carouselimages{
+  height:450px;
+}
+
+.carouselcaption{
+  color:black;
+  margin-left: 600px;
+}
+
+.carddeckstyle{
+  padding:20px;
+  border: 1px solid black;
+}
+
+.jumbotranstyle{
+  display:flex;
+  justify-content: space-evenly;
+}
+
+/*.Jumbotranimage{
+ margin-left:20px;
+ height:5px;
+}*/
+
+.footerjumbo{
+  background-color:black;
+}
+
+.footertext{
+  color:white;
+}
+
+.borderadd{
+  border: 1px solid black;
+}
+
+.cardimage{
+  height: 20px;
+}
+
+
+
+
+/*ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+ background-color:black;
+
+height:50px;
+text-align: center;
+  
+
+
+}
+
+li{
+  display:inline;
+}
+li {
+  float: left;
+  
+}
+
+.navlink{
+  display: block;
+ padding: 14px 16px;
+  color:white;
+  text-align:center;
+  text-decoration: none;
+
+
+} */
+
+/*li a {
+  display: block;
   color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}*/
+
+/*ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
 }
 
-.App-link {
-  color: #61dafb;
+li {
+  float: left;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}*/
